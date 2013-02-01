@@ -44,6 +44,8 @@ GameMenu::~GameMenu()
 }
 
 void GameMenu::run(){
+	//Lolzlorz
+	
 	sf::RenderWindow window(sf::VideoMode(1260,788),"Test");
 	sf::Vector2i mouse;
 	window.setFramerateLimit(60);
